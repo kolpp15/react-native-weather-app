@@ -3,7 +3,7 @@
 React Native app to fetch the weather based on the current location. This app uses expo.
 
 # Screenshot
-!["weather"]()
+!["weather"](https://github.com/kolpp15/react-native-weather-app/blob/main/docs/weather.png?raw=true)
 
 # Getting Started
 1. Fork this repository, then clone your fork of this repository.
